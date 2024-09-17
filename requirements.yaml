@@ -1,0 +1,5 @@
+collections:
+- name: f5networks.f5_bigip
+- name: f5networks.f5_modules
+- name: f5networks.f5os
+- name: f5networks.next
