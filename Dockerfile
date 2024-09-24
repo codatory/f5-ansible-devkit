@@ -1,4 +1,4 @@
-FROM almalinux:9.4-20240723
+FROM almalinux:9.4-20240923
 
 RUN dnf groupinstall -y "Development Tools"; dnf clean all
 
