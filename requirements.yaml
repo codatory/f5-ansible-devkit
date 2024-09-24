@@ -1,5 +1,9 @@
 collections:
 - name: f5networks.f5_bigip
+  version: v3.7.0
 - name: f5networks.f5_modules
+  version: v1.31.0
 - name: f5networks.f5os
+  version: v1.11.0
 - name: f5networks.next
+  version: v1.3.1
