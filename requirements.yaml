@@ -1,8 +1,8 @@
 collections:
 - name: f5networks.f5_bigip
-  version: "3.8.0"
+  version: "3.8.2"
 - name: f5networks.f5_modules
-  version: "1.32.0"
+  version: "1.32.1"
 - name: f5networks.f5os
   version: "1.12.0"
 - name: f5networks.next
