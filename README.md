@@ -5,7 +5,7 @@ Batteries Included development kit for F5 Ansible Playbooks
 
 ```json
 {
-  "image": "ghcr.io/codatory/f5-ansible-devkit:v1.0.3",
+  "image": "ghcr.io/codatory/f5-ansible-devkit:v1.0.5",
   "customizations": {
     "vscode": {
       "extensions": [
@@ -19,5 +19,5 @@ Batteries Included development kit for F5 Ansible Playbooks
 ## interactive use
 
 ```bash
-docker run -it --rm -v $PWD:/ansible ghcr.io/codatory/f5-ansible-devkit:v1.0.3
+docker run -it --rm -v $PWD:/ansible ghcr.io/codatory/f5-ansible-devkit:v1.0.5
 ```
