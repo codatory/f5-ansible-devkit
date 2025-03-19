@@ -1,4 +1,4 @@
-FROM ghcr.io/ansible/community-ansible-dev-tools:v24.12.0
+FROM ghcr.io/ansible/community-ansible-dev-tools:v25.2.1
 
 COPY requirements.yaml /workdir/requirements.yaml
 
